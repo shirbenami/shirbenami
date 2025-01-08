@@ -1,16 +1,35 @@
 ## Hi there 👋
 
-<!--
-**shirbenami/shirbenami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about technology, machine learning, and learning new things.
 
-Here are some ideas to get you started:
+## 🧑‍💻 About Me  
+- 🎓 B.Sc. in Electrical and Computer Engineering  
+- 💻 Currently diving into projects in computer vision and deep learning
+- 🌱 Exploring Self-Supervised Learning (SSL) and DeepStream  
+- 🚀 Always excited to tackle new challenges and grow my skills  
+- 📫 How to reach me: shirbenami1@gmail.com  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Technologies & Tools  
+- **Languages**: Python, C#, Java  
+- **AI & Machine Learning**: Deep Learning, CNN (Convolutional Neural Networks)  
+- **Tools & Platforms**: Git, GitHub, Docker, TensorFlow, PyTorch, DeepStream  
+- **Hardware & Design**: OrCAD, Cadence Virtuoso
+- **Fields of Interest**: Computer Vision, Artificial Intelligence (AI), Deep Learning 
+
+---
+
+## 🚧 Projects I'm Proud Of  
+- 🔍 **[SSL ResNet Feature Extractor](https://github.com/shirbenami/SSL-SimCLR-ResNet)** – Built and trained a ResNet50 model using self-supervised learning to improve feature extraction.  
+- 🚗 **[YOLO Object Detection Project](https://github.com/shirbenami/YOLO-Traffic-Monitoring)** – Implemented object detection on video datasets to classify and track vehicles.  
+
+---
+
+## 🌐 Connect with Me  
+- **LinkedIn**: [linkedin.com/in/shirbenami](https://linkedin.com/in/shirbenami)  
+- **GitHub**: [github.com/shirbenami](https://github.com/shirbenami)  
+
+---
+
+
