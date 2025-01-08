@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm passionate about technology, machine learning,
 ---
 
 ## 🌐 Connect with Me  
-- **LinkedIn**: [linkedin.com/in/shirbenami](https://linkedin.com/in/shirbenami)  
+- **LinkedIn**: [linkedin.com/in/shirbenami]((https://il.linkedin.com/in/shir-ben-ami-8741ab259))  
 - **GitHub**: [github.com/shirbenami](https://github.com/shirbenami)  
 
 ---
