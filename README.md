@@ -21,7 +21,8 @@ Welcome to my GitHub profile! I'm passionate about technology, machine learning,
 ---
 
 ## 🚧 Projects I'm Proud Of  
-- 🔍 **[SSL ResNet Feature Extractor](https://github.com/shirbenami/SSL-SimCLR-ResNet)** – Built and trained a ResNet50 model using self-supervised learning to improve feature extraction.  
+- 🔍 **[SSL ResNet Feature Extractor](https://github.com/shirbenami/SSL-SimCLR-ResNet)** – Built and trained a ResNet50 model using self-supervised learning to improve feature extraction.
+- 🔍 **[SSL YOLOv8](https://github.com/shirbenami/SSL-YOLOv8)** – This project explores the integration of YOLOv8 with SimCLR for self-supervised representation learning, followed by fine-tuning on a labeled dataset.
 - 🚗 **[YOLO Object Detection Project](https://github.com/shirbenami/YOLO-Traffic-Monitoring)** – Implemented object detection on video datasets to classify and track vehicles.  
 
 ---
