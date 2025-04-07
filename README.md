@@ -6,7 +6,6 @@ Welcome to my GitHub profile! I'm passionate about technology, machine learning,
 - 🎓 B.Sc. in Electrical and Computer Engineering  
 - 💻 Currently diving into projects in computer vision and deep learning
 - 🌱 Exploring Self-Supervised Learning (SSL) and DeepStream  
-- 🚀 Always excited to tackle new challenges and grow my skills  
 - 📫 How to reach me: shirbenami1@gmail.com  
 
 ---
