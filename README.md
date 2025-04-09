@@ -1,17 +1,16 @@
 ## Hi there 👋
 
-Welcome to my GitHub profile! I'm passionate about technology, machine learning, and learning new things.
+Welcome to my GitHub profile! 
 
 ## 🧑‍💻 About Me  
+- 💻 Currently working on projects in computer vision and deep learning
 - 🎓 B.Sc. in Electrical and Computer Engineering  
-- 💻 Currently diving into projects in computer vision and deep learning
-- 🌱 Exploring Self-Supervised Learning (SSL) and DeepStream  
 - 📫 How to reach me: shirbenami1@gmail.com  
 
 ---
 
 ## 🛠️ Technologies & Tools  
-- **Languages**: Python, C#, Java  
+- **Languages**: Python, C#  
 - **AI & Machine Learning**: Deep Learning, CNN (Convolutional Neural Networks)  
 - **Tools & Platforms**: Git, GitHub, Docker, TensorFlow, PyTorch, DeepStream  
 - **Hardware & Design**: OrCAD, Cadence Virtuoso
