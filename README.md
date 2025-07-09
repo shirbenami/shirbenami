@@ -17,7 +17,7 @@ Welcome to my GitHub profile!
 
 
 ## 🚧 Projects I'm Proud Of  
-- 🚁 **[ROS1 Gazebo Hector Multi-Drone Simulation](https://github.com/shirbenami/ROS1-Gazebo)** — Developed a simulation for multiple Hector Quadrotor drones in Gazebo with ROS. Includes integration with **ORB-SLAM3**/**COVINS** for collaborative SLAM, plus real-time visual inter-drone detection (color detection and template matching) and azimuth sharing.
+- 🚁 **[ROS1 Gazebo Hector Multi-Drone Simulation](https://github.com/shirbenami/ROS1-Gazebo)** — Developed a simulation for multiple Hector Quadrotor drones in Gazebo with ROS. Includes integration with ORB-SLAM3/COVINS for collaborative SLAM, plus real-time visual inter-drone detection (color detection and template matching) and azimuth sharing.
   
 - 🔍 **[SSL ResNet Feature Extractor](https://github.com/shirbenami/SSL-SimCLR-ResNet)** – Built and trained a ResNet50 model using self-supervised learning to improve feature extraction.
   
