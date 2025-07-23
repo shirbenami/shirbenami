@@ -10,7 +10,7 @@ Welcome to my GitHub profile!
 
 ## 🛠️ Technologies & Tools  
 - **Languages**: Python, C#  
-- **AI & Machine Learning**: Deep Learning, CNN (Convolutional Neural Networks),SSL (Self-Supervised Learning)
+- **AI & Machine Learning**: Deep Learning, CNN, SSL (Self-Supervised Learning)
 - **Tools & Platforms:** Git, DeepStream, ROS, Gazebo, SLAM
 - **Fields of Interest**: Computer Vision, Machine Learning, Autonomous Systems, Robotics
 
