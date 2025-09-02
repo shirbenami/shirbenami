@@ -1,7 +1,3 @@
-## Hi there 👋
-
-Welcome to my GitHub profile! 
-
 ## 🧑‍💻 About Me  
 - 💻 Currently working on projects in computer vision, deep learning and multi-agent robotics simulation.
 - 🎓 B.Sc. in Electrical and Computer Engineering  
