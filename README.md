@@ -1,7 +1,7 @@
 ## About Me  
-- Currently working on projects in computer vision, deep learning, VLM, and multi-agent robotics simulation.
+- Currently working on projects in computer vision, deep learning, VLM,SLAM and multi-agent robotics simulation.
 - 🎓 B.Sc. in Electrical and Computer Engineering  
-- How to reach me: shirbenami1@gmail.com  
+- How to reach me: shirbenami1@gmail.com / https://www.linkedin.com/in/shir-ben-ami-8741ab259/
 
 
 ## Technologies & Tools  
