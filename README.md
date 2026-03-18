@@ -1,10 +1,10 @@
 ## About Me  
-- Currently working on projects in computer vision, deep learning, VLM,SLAM and multi-agent robotics simulation.
+- Currently working on projects in computer vision, deep learning, VLM, SLAM and multi-agent robotics simulation.
 - 🎓 B.Sc. in Electrical and Computer Engineering  
 
 ## Technologies & Tools  
-- **Languages**: Python, C#  
-- **AI & Machine Learning**: Deep Learning, CNN, SSL (Self-Supervised Learning), LLM and VLM
+- **Languages**: Python, C#, MATLAB
+- **AI & Machine Learning**: Deep Learning, CNN, Object Detection, SSL(Self-Supervised Learning), LLM and VLM 
 - **Tools & Platforms:** Git, DeepStream, ROS, Gazebo, SLAM
 - **Fields of Interest**: Computer Vision, Machine Learning, Autonomous Systems, Robotics
 
